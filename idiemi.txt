@@ -98,7 +98,7 @@ if (isMobile) {
 }
 }
 function zlogo(){
-	document.getElementById('zlogo').innerHTML ='<div class="zblogo"><a href="/m.html" target="_blank"><m class="zbbtn">下载APP</m></a></div>';
+	document.getElementById('zlogo').innerHTML ='<div class="zblogo"><a href="https://www.idiemi.com/app" target="_blank"><m class="zbbtn">下载APP</m></a></div>';
 }
 function appdown(){
 	if (isMobile) {
